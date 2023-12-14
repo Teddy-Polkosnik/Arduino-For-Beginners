@@ -1,16 +1,22 @@
 # Creating A Parking Sensor Using An Ultrasonic Sensor And LED
 
+### __Table of Contents__
+- [What Pins](https://github.com/Teddy-Polkosnik/Arduino-Activities/edit/main/Activity%201/Activity_1_README.md#what-pins-are-on-the-sensor)
+- [What Data](https://github.com/Teddy-Polkosnik/Arduino-Activities/edit/main/Activity%201/Activity_1_README.md#what-data-does-the-sensor-show)
+
 ### Materials Needed
 - Arduino
 - LED
 - 10 Omhs Resistor
 - 4 Pin Ultrasonic Sesnor
-
   
 <br>
 
 ## What Are Ultrasonic Sensors? 
 Ultrasonic senosrs are sensors that send out sounds at a frquency that cannot be heard to human ears.
+Who discovered it?
+What is it used in? (teslas)
+Why is it useful?
 
 <br>
 
