@@ -65,13 +65,34 @@ Arduino measures time in mili-seconds and distance in centi-meters so to convert
   <img width="800" height="400" src="https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/assets/Activity%201%20Wiring%20Diagram.png">
 </p>
 
+
+
+
+
 ## How To Approach Coding?
 
-**Global Area**
+**Global Area:** Here you define all variables, pins, and data types.
 
-**void setup()**
+<br>
 
-**void loop()**
+**void setup():** Here you set up the pinModes and Serial Monitor.
+
+There are two parameters required for setting up the pinMode.  
+
+<p align="center">
+pinMode(pin, INPUT)    OR    pinMode(pin, OUTPUT)
+</p>
+
+| INPUT | OUTPUT |
+| ------------- | ------------- |
+| High-impedance state  | Low-impedance state |
+| Input pins make extremely small demands on the circuit that they are sampling, this means that it takes very little current to move the input pin from one state to another.  | This means that they can provide a substantial amount of current to other circuits.  |
+
+
+
+<br>
+
+**void loop():** Here you place the code that will run consistently.
 
 
 
