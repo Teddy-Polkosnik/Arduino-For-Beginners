@@ -3,9 +3,9 @@
 
 ## Table of Contents
 - [History](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#a-brief-history-of-arduino)
-- [Why Use Arduinos](
-- [Tips and Tricks](
-- [Activities](
+- [Why Arduino](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#why-arduino)
+- [Tips and Tricks](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Tips-and-Tricks)
+- [Activities](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Activities)
 
   
 <br>
