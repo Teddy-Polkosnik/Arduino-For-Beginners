@@ -58,7 +58,7 @@ what parameters they need, and even examples on how to properly utilize it. Read
 
 ## Basic Things to Memorize
 
-- syntax
+- **SEMI-COLON AFTER EVERY LINE**
 - #define
 - Serial.begin()
 - pinMode()
