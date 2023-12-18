@@ -1,6 +1,13 @@
 # Arduino-Activities
 **Arduino Activities To Learn About Prototyping**
 
+## Table of Contents
+- [History](
+- [Why Use Arduinos](
+- [Tips and Tricks](
+- [Activities](
+
+  
 <br>
 
 ## A Brief History of Arduino
@@ -8,6 +15,14 @@
 
 <br>
 
+## Why Arduino
+
+
+<br>
+
+## Tips and Tricks
+
+<br>
 
 ## Activities
 
