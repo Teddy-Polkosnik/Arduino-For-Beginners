@@ -57,14 +57,17 @@ what parameters they need, and even examples on how to properly utilize it. Read
 <br>
 
 ## Basic Things to Memorize
-
 - **SEMI-COLON AFTER EVERY LINE**
 - #define
-- Serial.begin()
+- Serial.begin() 
 - pinMode()
+- digitalWrite()
+- analongWrite()
+- analongRead()
+- delay()
 
 
-## LOOPS
+## Loops
 - if()
 - while()
 - for()
