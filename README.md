@@ -40,6 +40,17 @@ The Arduino platform has continued to evolve with new hardware releases, softwar
 
 ## Tips and Tricks
 
+**Read Documentation:** There will be function that you aren't familiar with and looking up the documentation on the OFFICAL website can allow you to see exactly what they do, 
+what parameters they need, and even examples on how to properly utilize it. Reading is annoying but very helpful during the design and debugging process. If not I am sure there's someone on the internet who can explain it in terms that would allow you to understand it whether on YouTube, Reddit, and GITHUB.
+
+**Cable Mangement:**
+
+**Debug:**
+
+**Be Creative:**
+
+**Pass the Torch:**
+
 <br>
 
 ## Activities
