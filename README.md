@@ -1,5 +1,5 @@
 # [WORK IN PROGRESS] Arduino-Activities     
-**Arduino Activities To Learn About Prototyping**
+**Created to provide another method to learn Arduino for Rapid Prototyping**
 
 ## Table of Contents
 - [History](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#a-brief-history-of-arduino)
