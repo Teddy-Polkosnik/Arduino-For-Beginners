@@ -43,7 +43,7 @@ The Arduino platform has continued to evolve with new hardware releases, softwar
 **Read Documentation:** There will be function that you aren't familiar with and looking up the documentation on the OFFICAL website can allow you to see exactly what they do, 
 what parameters they need, and even examples on how to properly utilize it. Reading is annoying but very helpful during the design and debugging process. If not I am sure there's someone on the internet who can explain it in terms that would allow you to understand it whether on YouTube, Reddit, and GITHUB.
 
-**Cable Mangement:**
+**Cable Mangement:** Typically this is important for controlling complex electronic components or system but it's useful to build the habit early to create a easy way to reference connections later on. Here are 2 "standards" colors associations you have to know -->   black = GND  and   red = 5V/PWR    Through more reading more documenation and wiring diagrams you are able to catch on the system of color association that the creator used. Everyone comes up with thier own after time so you will in time too!
 
 **Debug:**
 
