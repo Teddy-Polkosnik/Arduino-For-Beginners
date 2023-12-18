@@ -77,7 +77,17 @@ Arduino measures time in mili-seconds and distance in centi-meters so to convert
 
 **void setup():** Here you set up the pinModes and Serial Monitor.
 
-There are two parameters required for setting up the pinMode.  
+Serial Monitor Examples:
+
+Serial.begin()   --> Initializes the Serial Monitor
+
+Serial.print()   --> Prints the data in the Serial Monitor
+
+Serial.println() --> Prints the data in the Serial Monitor on a new line 
+
+Serial.read()    --> Reads the data in the Serial Monitor
+
+<br>
 
 <p align="center">
 pinMode(pin, INPUT)    OR    pinMode(pin, OUTPUT)
@@ -87,6 +97,8 @@ pinMode(pin, INPUT)    OR    pinMode(pin, OUTPUT)
 | ------------- | ------------- |
 | High-impedance state  | Low-impedance state |
 | Input pins make extremely small demands on the circuit that they are sampling, this means that it takes very little current to move the input pin from one state to another.  | This means that they can provide a substantial amount of current to other circuits.  |
+
+
 
 
 
