@@ -1,4 +1,4 @@
-# [WORK IN PROGRESS] Arduino-Activities     
+# [WORK IN PROGRESS] Arduino-For-Beginners    
 **Created to provide another method to learn Arduino for Rapid Prototyping**
 
 ## Table of Contents
