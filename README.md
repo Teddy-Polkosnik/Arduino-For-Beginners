@@ -2,7 +2,7 @@
 **Arduino Activities To Learn About Prototyping**
 
 ## Table of Contents
-- [History](
+- [History](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#a-brief-history-of-arduino)
 - [Why Use Arduinos](
 - [Tips and Tricks](
 - [Activities](
