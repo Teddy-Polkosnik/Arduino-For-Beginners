@@ -1,4 +1,4 @@
-# Arduino-Activities
+# Arduino-Activities     [WORK IN PROGRESS FEEL FREE TO EMAIL ME]
 **Arduino Activities To Learn About Prototyping**
 
 ## Table of Contents
