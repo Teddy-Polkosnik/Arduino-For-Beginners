@@ -1,7 +1,7 @@
 # Creating A Parking Sensor Using An Ultrasonic Sensor And LED
 
 ### __Table of Contents__
-- [Materials](url)
+- [Materials](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/Activity_1_README.md#materials-needed)
 - [Uses](url)
 - [Pins](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/Activity_1_README.md#what-pins-are-on-the-sensor)
 - [Data](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/Activity_1_README.md#what-data-does-the-sensor-show)
