@@ -48,7 +48,7 @@ what parameters they need, and even examples on how to properly utilize it. Read
 
 **Cable Mangement:** Typically this is important for controlling complex electronic components or system but it's useful to build the habit early to create a easy way to reference connections later on. Here are 2 "standards" colors associations you have to know -->   black = GND  and   red = 5V/PWR    Through more reading more documenation and wiring diagrams you are able to catch on the system of color association that the creator used. Everyone comes up with thier own after time so you will in time too!
 
-**Debug:**
+**Debug:** Identify The Problem --> Understand the Issue --> Print Data --> Isolate Issue --> Search Documentation --> Repair Issue
 
 **Be Creative:**
 
