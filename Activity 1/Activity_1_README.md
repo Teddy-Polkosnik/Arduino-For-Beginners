@@ -58,6 +58,12 @@ Arduino measures time in mili-seconds and distance in centi-meters so to convert
 
 <br>
 
+## Wiring Diagram 
+
+<p align="center">
+  <img width="800" height="400" src="https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/assets/Activity%201%20Wiring%20Diagram.png">
+</p>
+
 ## How To Approach Coding?
 
 **Global Area**
