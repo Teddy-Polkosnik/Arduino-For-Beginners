@@ -56,10 +56,15 @@ Arduino measures time in mili-seconds and distance in centi-meters so to convert
 
 
 
-
-
 <br>
 
 ## How To Approach Coding?
+
+**Global Area**
+
+**void setup()**
+
+**void loop()**
+
 
 
