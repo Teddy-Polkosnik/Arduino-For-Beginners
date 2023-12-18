@@ -2,7 +2,7 @@
 
 ### __Table of Contents__
 - [Materials](url)
-- [What is Ultrasonic](url)
+- [Uses](url)
 - [Pins](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/Activity_1_README.md#what-pins-are-on-the-sensor)
 - [Data](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/Activity_1_README.md#what-data-does-the-sensor-show)
 - [Coding](url)
@@ -16,21 +16,47 @@
   
 <br>
 
-## What Are Ultrasonic Sensors? 
-Ultrasonic senosrs are sensors that send out sounds at a frquency that cannot be heard to human ears.
-Who discovered it?
-What is it used in? (teslas)
-Why is it useful?
+## What Are Some Uses Ultrasonic Sensors? 
+
+**Distance Measurement:** They are commonly used to measure the distance between the sensor and an object without physical contact.
+
+**Object Detection and Avoidance:** They are employed in robotics and automation to detect the presence or absence of objects and avoid collisions.
+
+**Level Measurement:** Ultrasonic sensors can be used to measure the level of liquids in tanks.
+
+**Parking Assistance Systems:** They are often used in vehicles for parking assistance, providing feedback about the proximity of obstacles.
+
+**Flow Rate Measurement:** In some cases, ultrasonic sensors can be used to measure the flow rate of fluids.
+
 
 <br>
 
 ## What Pins Are On The Sensor?
-Echo, Trig, VCC, GND
+**Echo:** [Input Pin] It receives the ultrasonic pulse/signal from the reflected object.
+
+**Trig:** [Output Pin] It sends out an ultrasonic pulse/signal.
+
+**VCC:** The VCC pin powers the sensor usually 5V (unless otherwise specified).
+
+**GND:** Point in a circuit as a reference and carries a voltage of 0V.
 
 <br>
 
 ## What Data Does The Sensor Show?
-Show the time that it takes for one cycle of bouncing sound.
+
+Ultrasonics do not necessarily measure distance. They show the time that it takes for one cycle of bouncing sound to be received. Because of this, distance must be  calculated using a formula.
+
+<p align="center">
+[Distance = (Time * Speed of Sound) / 2]
+</p>
+
+Where 2 represents the wave being sent and then coming back and the speed of sound being 0.034cm / pico-seconds.
+
+Arduino measures time in mili-seconds and distance in centi-meters so to convert from cm to inches, multiply cm by a factor of 0.394.
+
+
+
+
 
 <br>
 
