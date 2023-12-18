@@ -5,7 +5,10 @@
 - [History](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#a-brief-history-of-arduino)
 - [Why Arduino](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#why-arduino)
 - [Tips and Tricks](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Tips-and-Tricks)
+- [Thing to Memorize](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Basic-Things-to-Memorize)
+- [Loops](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Loops)
 - [Activities](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Activities)
+
 
   
 <br>
@@ -28,7 +31,7 @@ The Arduino platform has continued to evolve with new hardware releases, softwar
 
 ## Why Arduino
 
-**Easy:** Arduino is designed to be beginner-friendly. The Arduino IDE provides a simple and straightforward interface for writing, compiling, and uploading code to the boards. The syntax of the programming language is also easier for beginners to grasp compared to some other languages.
+**Easy:** Arduino is designed to be beginner-friendly. The Arduino IDE provides a simple and straightforward interface for writing, compiling, and uploading code to the boards. The syntax of the programming language is also easier for beginners to grasp compared to some other languages. (Even if the semi-colon syntax sucks)
 
 **Large Community:** Arduino has a large and active community of users. This community provides forums, tutorials, and a wealth of resources that can be immensely helpful, especially for beginners. If you encounter issues or have questions, chances are someone in the Arduino community has faced a similar challenge. There are muliple other GITHUB repositories with libraries and soultions to niche problems so check em out!
 
@@ -50,6 +53,22 @@ what parameters they need, and even examples on how to properly utilize it. Read
 **Be Creative:**
 
 **Pass the Torch:**
+
+<br>
+
+## Basic Things to Memorize
+
+- syntax
+- #define
+- Serial.begin()
+- pinMode()
+
+
+## LOOPS
+- if()
+- while()
+- for()
+
 
 <br>
 
