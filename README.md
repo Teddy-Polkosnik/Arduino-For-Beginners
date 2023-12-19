@@ -52,7 +52,7 @@ what parameters they need, and even examples on how to properly utilize it. Read
 
 **Be Creative:** The best soultion usually is the simplest but don't be afraid to experiement and come up with your own solutions (You learn more this way).
 
-**Pass the Torch:**
+**Pass the Torch:** I encourge you to post your work (or teach others) so you can contribute to the large amount of resources that are available. This will allow for more and more people to be interested and make their own creations.
 
 <br>
 
