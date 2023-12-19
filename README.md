@@ -57,14 +57,15 @@ what parameters they need, and even examples on how to properly utilize it. Read
 <br>
 
 ## Basic Things to Memorize
-- **SEMI-COLON AFTER EVERY LINE**
-- #define
-- Serial.begin() 
-- pinMode()
-- digitalWrite()
-- analongWrite()
-- analongRead()
-- delay()
+- **SEMI-COLON AFTER EVERY LINE** 
+- #define                             --> Defines the pin
+- Serial.begin()                      --> Begins the Serial Monitor at set BAUD Rate
+- pinMode()                           --> Sets the state of the pin  INPUT , OUTPUT
+- digitalWrite()                      --> Writes the action to the digital pin HIGH = ON , LOW = OFF
+- digitalRead()                       --> Reads the data on the digital pin
+- analongWrite()                      --> Writes the action to the anaglog pin HIGH = ON , LOW = OFF
+- analongRead()                       --> Reads the data on the analog pin
+- delay()                             --> Set the Delay on the loop in mili-seconds
 
 
 ## Loops
