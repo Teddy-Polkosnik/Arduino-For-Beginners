@@ -50,7 +50,7 @@ what parameters they need, and even examples on how to properly utilize it. Read
 
 **Debug:** Identify The Problem --> Understand the Issue --> Print Data --> Isolate Issue --> Search Documentation --> Repair Issue
 
-**Be Creative:**
+**Be Creative:** The best soultion usually is the simplest but don't be afraid to experiement and come up with your own solutions (You learn more this way).
 
 **Pass the Torch:**
 
