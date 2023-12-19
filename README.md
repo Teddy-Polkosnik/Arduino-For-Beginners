@@ -58,20 +58,22 @@ what parameters they need, and even examples on how to properly utilize it. Read
 
 ## Basic Things to Memorize
 - **SEMI-COLON AFTER EVERY LINE** 
-- #define                             --> Defines the pin
-- Serial.begin()                      --> Begins the Serial Monitor at set BAUD Rate
-- pinMode()                           --> Sets the state of the pin  INPUT , OUTPUT
-- digitalWrite()                      --> Writes the action to the digital pin HIGH = ON , LOW = OFF
-- digitalRead()                       --> Reads the data on the digital pin
-- analongWrite()                      --> Writes the action to the anaglog pin HIGH = ON , LOW = OFF
-- analongRead()                       --> Reads the data on the analog pin
-- delay()                             --> Set the Delay on the loop in mili-seconds
+- #define                                          --> Defines the pin
+- Serial.begin(BAUD_RATE)                          --> Begins the Serial Monitor at set BAUD Rate
+- pinMode(PIN , STATE)                             --> Sets the state of the pin  INPUT , OUTPUT
+- digitalWrite(PIN , ACTION)                       --> Writes the action to the digital pin HIGH = ON , LOW = OFF
+- digitalRead(PIN)                                 --> Reads the data on the digital pin
+- analongWrite(PIN , ACTION)                       --> Writes the action to the anaglog pin HIGH = ON , LOW = OFF
+- analongRead(PIN)                                 --> Reads the data on the analog pin
+- delay(TIME)                                      --> Set the Delay on the loop in mili-seconds
 
 
 ## Loops
-- if()
-- while()
-- for()
+- if()                                --> If [SPECIFIC CONDITION] is TRUE do this
+- while()                             --> While [SPECIFIC CONDITION] is TRUE do this
+- for()                               --> For each [VALUE] in [SET RANGE] do this
+
+We will go over each type of loop in the activies so don't worry if you don't understand it right now!
 
 
 <br>
