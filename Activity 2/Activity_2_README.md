@@ -81,7 +81,7 @@ When you read data from the MPU6050, you typically get 16-bit raw values for eac
 To convert the raw data to meaningful units. Note: LSB stands for Least Significant Bit, and it represents the smallest change detectable by the sensor.
 
 <p align="center">
-  <img width="400" height="400" src="https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/assets/Gryo%20Data.png">
+  <img width="400" height="400" src="https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/assets/Accelerometer%20Data.png">
 </p>
 <p align="center">
   
