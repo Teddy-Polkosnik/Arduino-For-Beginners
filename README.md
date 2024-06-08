@@ -81,3 +81,4 @@ We will go over each type of loop in the activies so don't worry if you don't un
 ## Activities
 
 ### [Activity 1 - Intro to Ultrasonic Sensors](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/Activity_1_README.md)
+### [Activity 2 - Intro to Gyroscopes](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md)
