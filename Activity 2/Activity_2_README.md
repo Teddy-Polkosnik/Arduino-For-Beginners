@@ -138,7 +138,7 @@ The resultant values are in terms of Degrees Celsius.
 ## Wiring Diagram 
 
 <p align="center">
-  <img width="800" height="400" src="https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/assets/Activity%201%20Wiring%20Diagram.png">
+  <img width="700" height="500" src="https://raw.githubusercontent.com/Teddy-Polkosnik/Arduino-For-Beginners/main/Activity%202/assets/Wiring.webp">
 </p>
 
 
