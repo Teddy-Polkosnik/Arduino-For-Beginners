@@ -96,7 +96,7 @@ The resultant values are in terms of g-forces. The available ranges are ±2g, ±
 </p>
 
 <p align="center">
-  <img width="800" height="400" src="https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/assets/Gryo%20Data.png">
+  <img width="800" height="800" src="https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/assets/Gryo%20Data.png">
 </p>
 
 
