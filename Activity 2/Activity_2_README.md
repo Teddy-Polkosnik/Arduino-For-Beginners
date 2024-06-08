@@ -171,8 +171,8 @@ pinMode(pin, INPUT)    OR    pinMode(pin, OUTPUT)
 
 | INPUT | OUTPUT |
 | ------------- | ------------- |
-| High-impedance state  | Low-impedance state |
-| Input pins make extremely small demands on the circuit that they are sampling, this means that it takes very little current to move the input pin from one state to another.  | This means that they can provide a substantial amount of current to other circuits.  |
+| A  | B |
+| X  | Y |
 
 
 
