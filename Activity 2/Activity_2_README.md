@@ -1,8 +1,8 @@
 # Intro to the Gyroscope
 
 ### __Table of Contents__
-- [Materials](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/Activity_1_README.md#materials-needed)
-- [Uses](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/Activity_1_README.md#what-are-some-uses-ultrasonic-sensors)
+- [Materials](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md#materials-needed)
+- [Uses](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md#What-Are-Some-Uses-Gyro-Sensors)
 - [Pins](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/Activity_1_README.md#what-pins-are-on-the-sensor)
 - [Data](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/Activity_1_README.md#what-data-does-the-sensor-show)
 - [Wiring](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/Activity_1_README.md#wiring-diagram)
