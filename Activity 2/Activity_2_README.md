@@ -3,7 +3,7 @@
 ### __Table of Contents__
 - [Materials](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md#materials-needed)
 - [Uses](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md#What-Are-Some-Uses-Gyro-Sensors)
-- [I²C](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md#What-is-I2C-or-I²C)
+- [I²C](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md#what-is-i2c-or-ic)
 - [Pins](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md#What-Pins-Are-On-The-Sensor)
 - [Wiring](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md#Wiring-Diagram)
 - [Coding](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md#How-To-Approach-Coding)
