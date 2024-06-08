@@ -48,17 +48,17 @@ How I²C Works
 
 ## What Pins Are On The Sensor?
 
-**SCL:** [Input Pin]  It provides the clock signal that synchronizes the data transmission.
+**SCL:**  It provides the clock signal that synchronizes the data transmission.
 
-**SDA:** [Output Pin] It carries the data from the sensor to the microcontroller.
+**SDA:** It carries the data from the sensor to the microcontroller.
 
-**XDA:** [Output Pin] Used for connecting to external I2C devices. Typically not used in basic setups.
+**XDA:** Used for connecting to external I2C devices. Typically not used in basic setups.
 
-**XCL:** [Output Pin] Used for connecting to external I2C devices. Typically not used in basic setups.
+**XCL:** Used for connecting to external I2C devices. Typically not used in basic setups.
 
-**ADO:** [Output Pin] This pin is used to change the I2C address of the MPU6050. This is useful if you have multiple MPU6050 devices on the same I2C bus.
+**ADO:** This pin is used to change the I2C address of the MPU6050. This is useful if you have multiple MPU6050 devices on the same I2C bus.
 
-**INT:** [Output Pin] An interrupt pin that can be used to signal the microcontroller when new data is available.
+**INT:** An interrupt pin that can be used to signal the microcontroller when new data is available.
 
 **VCC:** The VCC pin powers the sensor usually 5V or 3.3V (unless otherwise specified).
 
