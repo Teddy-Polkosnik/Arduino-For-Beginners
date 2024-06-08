@@ -1,4 +1,4 @@
-# Using A Gyro to Detect Angle Changes
+# Intro to the Gyroscope
 
 ### __Table of Contents__
 - [Materials](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/Activity_1_README.md#materials-needed)
@@ -75,15 +75,40 @@ When you read data from the MPU6050, you typically get 16-bit raw values for eac
 - Gyroscope: Raw values range from -32768 to 32767, which correspond to the gyroscope's measurement range (±250, ±500, ±1000, or ±2000 degrees per second).
 - Temperature: Raw value in a 16-bit integer.
 
-To convert the raw data to meaningful units:
+<br>
+
+To convert the raw data to meaningful units. Note: LSB stands for Least Significant Bit, and it represents the smallest change detectable by the sensor.
 
 <p align="center">
-[Acceleration = (Raw Acceleration Data) / Sensitivity Scale Factor]
+[Acceleration (𝑔) = (Raw Acceleration Data) / Sensitivity Scale Factor]
 </p>
 
-Where 2 represents the wave being sent and then coming back and the speed of sound being 0.034cm / pico-seconds.
+The resultant values are in terms of g-forces. The available ranges are ±2g, ±4g, ±8g, and ±16g, where 𝑔 represents the acceleration due to gravity (approximately 9.81 m/s²).
+- ±2g  -> Scale factor = 16384 LSB/g
+- ±4g  -> Scale factor = 8192 LSB/g
+- ±8g  -> Scale factor = 4096 LSB/g
+- ±16g -> Scale factor = 2048 LSB/g
 
-Arduino measures time in mili-seconds and distance in centi-meters so to convert from cm to inches, multiply cm by a factor of 0.394.
+<br>
+
+<p align="center">
+[Angular Velocity(°/s) = (Raw Gyroscope Data) / Sensitivity Scale Factor]
+</p>
+
+The MPU6050 gyroscope can be configured to operate within different full-scale ranges. The available ranges are ±250 °/s, ±500 °/s, ±1000 °/s, ±2000 °/s.
+
+- ±250 °/s  -> Scale factor = 131 LSB/°/s
+- ±500 °/s  -> Scale factor = 65.5 LSB/°/s
+- ±1000 °/s -> Scale factor = 32.8 LSB/°/s
+- ±2000 °/s -> Scale factor = 16.4 LSB/°/s
+
+<br>
+
+<p align="center">
+[Temperature(°C) = (Raw Temperature Data/340.0) + 36.53]
+</p>
+
+The resultant values are in terms of Degrees Celsius.
 
 
 
