@@ -1,4 +1,4 @@
-# Creating A Parking Sensor Using An Ultrasonic Sensor And LED
+# Using A Gyro to Detect Angle Changes
 
 ### __Table of Contents__
 - [Materials](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/Activity_1_README.md#materials-needed)
@@ -11,35 +11,52 @@
   
 ## Materials Needed
 - Arduino
+- Wires
 - LED
 - 10 Omhs Resistor
-- 4 Pin Ultrasonic Sesnor
+- 6 Axis Gryoscope Sensor (MPU6050)
   
 <br>
 
-## What Are Some Uses Ultrasonic Sensors? 
+## What Are Some Uses Gyro Sensors? 
 
-**Distance Measurement:** They are commonly used to measure the distance between the sensor and an object without physical contact.
+**Angle Measurement:** They are commonly used to measure the angluar displacement between the sensor and an object without physical contact.
 
-**Object Detection and Avoidance:** They are employed in robotics and automation to detect the presence or absence of objects and avoid collisions.
+**Motion Tracking:** They are employed in AR/VR technology to track head and body movements in VR systems.
 
-**Level Measurement:** Ultrasonic sensors can be used to measure the level of liquids in tanks.
+**Seismology:** They are used to detect and measure minute ground movements in earthquake research.
 
-**Parking Assistance Systems:** They are often used in vehicles for parking assistance, providing feedback about the proximity of obstacles.
+**Aerospace:** They are critical for navigation and control of spacecraft and satellites.
 
-**Flow Rate Measurement:** In some cases, ultrasonic sensors can be used to measure the flow rate of fluids.
+
+<br>
+
+## What is I2C or I^2 C?
+
+Developed by Philips Semiconductor (now NXP Semiconductors) in 1982. I2C uses a Two-Wire (SDA and SCL) interface to comunicate with sensors quickly. Serial Data Line (SDA) carries the data from the sensor to the 
+microcontroller
 
 
 <br>
 
 ## What Pins Are On The Sensor?
-**Echo:** [Input Pin] It receives the ultrasonic pulse/signal from the reflected object.
 
-**Trig:** [Output Pin] It sends out an ultrasonic pulse/signal.
+**SCL:** [Input Pin]  It provides the clock signal that synchronizes data transmission between devices.
+
+**SDA:** [Output Pin] It sends out an ultrasonic pulse/signal.
+
+**XDA:** [Output Pin] It sends out an ultrasonic pulse/signal.
+
+**XCL:** [Output Pin] It sends out an ultrasonic pulse/signal.
+
+**ADO:** [Output Pin] It sends out an ultrasonic pulse/signal.
+
+**INT:** [Output Pin] It sends out an ultrasonic pulse/signal.
 
 **VCC:** The VCC pin powers the sensor usually 5V (unless otherwise specified).
 
 **GND:** Point in a circuit as a reference and carries a voltage of 0V.
+
 
 <br>
 
