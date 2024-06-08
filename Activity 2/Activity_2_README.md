@@ -5,6 +5,7 @@
 - [Uses](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md#What-Are-Some-Uses-Gyro-Sensors)
 - [I²C](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md#what-is-i2c-or-ic)
 - [Pins](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md#What-Pins-Are-On-The-Sensor)
+- [Data](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md#What-Data-Does-The-Sensor-Show)
 - [Wiring](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md#Wiring-Diagram)
 - [Coding](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md#How-To-Approach-Coding)
 
