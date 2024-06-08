@@ -95,6 +95,11 @@ The resultant values are in terms of g-forces. The available ranges are ±2g, ±
 [Angular Velocity(°/s) = (Raw Gyroscope Data) / Sensitivity Scale Factor]
 </p>
 
+<p align="center">
+  <img width="800" height="400" src="https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/assets/Gryo%20Data.png">
+</p>
+
+
 The MPU6050 gyroscope can be configured to operate within different full-scale ranges. The available ranges are ±250 °/s, ±500 °/s, ±1000 °/s, ±2000 °/s.
 
 - ±250 °/s  -> Scale factor = 131 LSB/°/s
