@@ -31,41 +31,54 @@
 
 <br>
 
-## What is I2C or I^2 C?
+## What is I2C or I²C?
 
-Developed by Philips Semiconductor (now NXP Semiconductors) in 1982. I2C uses a Two-Wire (SDA and SCL) interface to comunicate with sensors quickly. Serial Data Line (SDA) carries the data from the sensor to the 
-microcontroller
+Developed by Philips Semiconductor (now NXP Semiconductors) in 1982. I2C uses a Two-Wire (SDA and SCL) serial interface to comunicate with sensors quickly. Serial Data Line (SDA) carries the data from the sensor to the 
+microcontroller. Serial Clock Line (SCL) Carries the clock signal to synchronize the data to the microcontroller. 
+
+How I²C Works
+- Start Condition: The Reciever initiates communication by pulling SDA low while SCL is high.
+- Address Frame: The Reciever sends the address of the target Sender device along with a read/write bit.
+- Acknowledgment (ACK): The addressed Sender responds with an ACK bit by pulling SDA low.
+- Data Transfer: Data bytes are transmitted, with each byte followed by an ACK or NACK (negative acknowledgment) from the receiver.
+- Stop Condition: The Reciever ends communication by releasing the SDA line to high while SCL is high.
 
 
 <br>
 
 ## What Pins Are On The Sensor?
 
-**SCL:** [Input Pin]  It provides the clock signal that synchronizes data transmission between devices.
+**SCL:** [Input Pin]  It provides the clock signal that synchronizes the data transmission.
 
-**SDA:** [Output Pin] It sends out an ultrasonic pulse/signal.
+**SDA:** [Output Pin] It carries the data from the sensor to the microcontroller.
 
-**XDA:** [Output Pin] It sends out an ultrasonic pulse/signal.
+**XDA:** [Output Pin] Used for connecting to external I2C devices. Typically not used in basic setups.
 
-**XCL:** [Output Pin] It sends out an ultrasonic pulse/signal.
+**XCL:** [Output Pin] Used for connecting to external I2C devices. Typically not used in basic setups.
 
-**ADO:** [Output Pin] It sends out an ultrasonic pulse/signal.
+**ADO:** [Output Pin] This pin is used to change the I2C address of the MPU6050. This is useful if you have multiple MPU6050 devices on the same I2C bus.
 
-**INT:** [Output Pin] It sends out an ultrasonic pulse/signal.
+**INT:** [Output Pin] An interrupt pin that can be used to signal the microcontroller when new data is available.
 
-**VCC:** The VCC pin powers the sensor usually 5V (unless otherwise specified).
+**VCC:** The VCC pin powers the sensor usually 5V or 3.3V (unless otherwise specified).
 
-**GND:** Point in a circuit as a reference and carries a voltage of 0V.
+**GND:** Connect to the system ground.
 
 
 <br>
 
 ## What Data Does The Sensor Show?
 
-Ultrasonics do not necessarily measure distance. They show the time that it takes for one cycle of bouncing sound to be received. Because of this, distance must be  calculated using a formula.
+When you read data from the MPU6050, you typically get 16-bit raw values for each of the measurements. These values are retrieved over the I2C interface.
+
+- Accelerometer: Raw values range from -32768 to 32767, which correspond to the accelerometer's measurement range (±2g, ±4g, ±8g, or ±16g).
+- Gyroscope: Raw values range from -32768 to 32767, which correspond to the gyroscope's measurement range (±250, ±500, ±1000, or ±2000 degrees per second).
+- Temperature: Raw value in a 16-bit integer.
+
+To convert the raw data to meaningful units:
 
 <p align="center">
-[Distance = (Time * Speed of Sound) / 2]
+[Acceleration = (Raw Acceleration Data) / Sensitivity Scale Factor]
 </p>
 
 Where 2 represents the wave being sent and then coming back and the speed of sound being 0.034cm / pico-seconds.
