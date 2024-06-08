@@ -14,7 +14,7 @@
 - Wires
 - LED
 - 10 Omhs Resistor
-- 6 Axis Gryoscope Sensor (MPU6050)
+- 6 Axis Motion/Gryoscope Sensor (MPU6050)
   
 <br>
 
