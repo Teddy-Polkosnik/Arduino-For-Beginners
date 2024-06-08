@@ -81,6 +81,11 @@ When you read data from the MPU6050, you typically get 16-bit raw values for eac
 To convert the raw data to meaningful units. Note: LSB stands for Least Significant Bit, and it represents the smallest change detectable by the sensor.
 
 <p align="center">
+  <img width="400" height="400" src="https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/assets/Gryo%20Data.png">
+</p>
+<p align="center">
+  
+<p align="center">
 [Acceleration (𝑔) = (Raw Acceleration Data) / Sensitivity Scale Factor]
 </p>
 
@@ -92,14 +97,15 @@ The resultant values are in terms of g-forces. The available ranges are ±2g, ±
 
 <br>
 
-<p align="center">
-[Angular Velocity(°/s) = (Raw Gyroscope Data) / Sensitivity Scale Factor]
-</p>
+
 
 <p align="center">
   <img width="400" height="400" src="https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/assets/Gryo%20Data.png">
 </p>
-
+<p align="center">
+  
+[Angular Velocity(°/s) = (Raw Gyroscope Data) / Sensitivity Scale Factor]
+</p>
 
 The MPU6050 gyroscope can be configured to operate within different full-scale ranges. The available ranges are ±250 °/s, ±500 °/s, ±1000 °/s, ±2000 °/s.
 
