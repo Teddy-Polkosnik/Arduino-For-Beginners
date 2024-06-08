@@ -167,17 +167,12 @@ Serial.read()    --> Reads the data in the Serial Monitor
 
 <p align="center">
 pinMode(pin, INPUT)    OR    pinMode(pin, OUTPUT)
-
+</p>
 
 | INPUT | OUTPUT |
 | ------------- | ------------- |
 | A  | B |
 | X  | Y |
-
-</p>
-
-
-
 
 <br>
 
