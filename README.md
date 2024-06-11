@@ -2,8 +2,8 @@
 **Created to provide another method to learn Arduino for Rapid Prototyping**
 
 ## Table of Contents
-- [History](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#a-brief-history-of-arduino)
-- [Why Arduino](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#why-arduino)
+- [History](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/tree/main?tab=readme-ov-file#a-brief-history-of-arduino)
+- [Why Arduino](https://github.com/Teddy-Polkosnik/Arduino-Activities/tree/main?tab=readme-ov-file#why-arduino)
 - [Tips and Tricks](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Tips-and-Tricks)
 - [Thing to Memorize](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Basic-Things-to-Memorize)
 - [Loops](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Loops)
