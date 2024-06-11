@@ -86,5 +86,5 @@ We will go over each type of loop in the activies so don't worry if you don't un
 
 ## Sensor Resources
 
-### [Name](url)
+### [Master List](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Resources/Master_List.md)
 ### [Name](url)
