@@ -8,7 +8,7 @@
 - [Thing to Memorize](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Basic-Things-to-Memorize)
 - [Loops](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Loops)
 - [Activities](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Activities)
-- [Sensor Resources](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/edit/main/README.md#sensor-resources)
+- [Sensor Resources](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/README.md#sensor-resources)
 
 
   
