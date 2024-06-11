@@ -3,7 +3,7 @@
 
 ## Table of Contents
 - [History](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/tree/main?tab=readme-ov-file#a-brief-history-of-arduino)
-- [Why Arduino](https://github.com/Teddy-Polkosnik/Arduino-Activities/tree/main?tab=readme-ov-file#why-arduino)
+- [Why Arduino](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/tree/main?tab=readme-ov-file#why-arduino)
 - [Tips and Tricks](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/tree/main?tab=readme-ov-file#tips-and-tricks)
 - [Thing to Memorize](https://github.com/Teddy-Polkosnik/Arduino-Activities/tree/main?tab=readme-ov-file#basic-things-to-memorize)
 - [Loops](https://github.com/Teddy-Polkosnik/Arduino-Activities/tree/main?tab=readme-ov-file#loops)
