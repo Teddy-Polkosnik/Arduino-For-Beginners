@@ -4,11 +4,11 @@
 ## Table of Contents
 - [History](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/tree/main?tab=readme-ov-file#a-brief-history-of-arduino)
 - [Why Arduino](https://github.com/Teddy-Polkosnik/Arduino-Activities/tree/main?tab=readme-ov-file#why-arduino)
-- [Tips and Tricks](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Tips-and-Tricks)
-- [Thing to Memorize](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Basic-Things-to-Memorize)
-- [Loops](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Loops)
-- [Activities](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Activities)
-- [Sensor Resources](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/README.md#sensor-resources)
+- [Tips and Tricks](https://github.com/Teddy-Polkosnik/Arduino-Activities/tree/main?tab=readme-ov-file#Tips-and-Tricks)
+- [Thing to Memorize](https://github.com/Teddy-Polkosnik/Arduino-Activities/tree/main?tab=readme-ov-file#Basic-Things-to-Memorize)
+- [Loops](https://github.com/Teddy-Polkosnik/Arduino-Activities/tree/main?tab=readme-ov-file#Loops)
+- [Activities](https://github.com/Teddy-Polkosnik/Arduino-Activities/tree/main?tab=readme-ov-file#Activities)
+- [Sensor Resources](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/tree/main?tab=readme-ov-file#sensor-resources)
 
 
   
