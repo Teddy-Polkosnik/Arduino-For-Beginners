@@ -8,6 +8,7 @@
 - [Thing to Memorize](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Basic-Things-to-Memorize)
 - [Loops](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Loops)
 - [Activities](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/README.md#Activities)
+- [Sensor Resources](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/edit/main/README.md#sensor-resources)
 
 
   
@@ -82,3 +83,8 @@ We will go over each type of loop in the activies so don't worry if you don't un
 
 ### [Activity 1 - Intro to Ultrasonic Sensors](https://github.com/Teddy-Polkosnik/Arduino-Activities/blob/main/Activity%201/Activity_1_README.md)
 ### [Activity 2 - Intro to Gyroscopes](https://github.com/Teddy-Polkosnik/Arduino-For-Beginners/blob/main/Activity%202/Activity_2_README.md)
+
+## Sensor Resources
+
+### [Name](url)
+### [Name](url)
